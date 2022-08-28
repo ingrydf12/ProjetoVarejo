@@ -14,10 +14,13 @@ Projeto final desenvolvido durante o curso do Instituto Juventude Inovação, Es
   > 🚧 Projeto finalizado **(Haverá atualizações)** 🚧
 
   
-  Sugestões de atualização
-  > Dividir a aplicação entre login de Administradores e Clientes (Poder realizar compras, trocas, e devoluções)
-  > Melhorar a estética do aplicativo
-  > Ter uma tela de relatório para os vendedores
+ <h4> Sugestões de atualização </h4>
+ 
+1. Dividir a aplicação entre login de Administradores e Clientes (Poder realizar compras, trocas, e devoluções).
+2. Melhorar a estética do aplicativo
+3. Ter uma tela de relatório para os vendedores
+4. null
+5. null
 
 <h3> Autores </h3>
 
