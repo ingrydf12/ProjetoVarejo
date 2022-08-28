@@ -13,6 +13,12 @@ Projeto final desenvolvido durante o curso do Instituto Juventude Inovação, Es
 * [Status do Projeto](#status-do-Projeto)
   > 🚧 Projeto finalizado **(Haverá atualizações)** 🚧
 
+  
+  Sugestões de atualização
+  > Dividir a aplicação entre login de Administradores e Clientes (Poder realizar compras, trocas, e devoluções)
+  > Melhorar a estética do aplicativo
+  > Ter uma tela de relatório para os vendedores
+
 <h3> Autores </h3>
 
 
