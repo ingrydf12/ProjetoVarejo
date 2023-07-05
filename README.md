@@ -2,11 +2,13 @@
 
 
 # Projeto Tigger
+Final project developed during the Young Programmers School course promoted by the City Hall of Fortaleza.
 Projeto final desenvolvido durante o curso do Instituto Juventude Inovação, Escola de Jovens Programadores.
 
 <h4 align= "center"> Ideia do Projeto </h4>
 
   Desenvolver um aplicativo simples de **gerenciamento para pequenas empresas e/ou vendedores autônomos**, de forma que, auxilie vendedores no controle de suas vendas, clientes, estoque e produtos de forma rápida e prática.
+  Develop a simple **management application for small businesses and/or self-employed vendors** that assists vendors in quickly and conveniently controlling their sales, customers, inventory, and products.
 
 ![Badge Java](https://img.shields.io/badge/-Java-blue) ![Badge NetBeans](https://img.shields.io/badge/-NetBeans-red) ![Badge MySQL](https://img.shields.io/badge/-MySQL-brightgreen)
 
