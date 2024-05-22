@@ -22,11 +22,11 @@ USOS:
 1. Dividir a aplicação entre login de Administradores e Clientes (Poder realizar compras, trocas, e devoluções).
 2. Melhorar a estética do aplicativo
 3. Ter uma tela de relatório para os vendedores
-4. null
+4. N/A
 5. null
 
 <h3> Autores </h3>
 
 
-| [<img src="https://avatars.githubusercontent.com/u/90623907?v=4" width=115><br><sub>Ingryd Cordeiro Duarte</sub>](https://github.com/ingrydf12) |  [<img src="https://media-exp1.licdn.com/dms/image/C4D03AQF7WkG4f62eOw/profile-displayphoto-shrink_200_200/0/1652477347474?e=1666828800&v=beta&t=jJICBbHDLi4a_zDMUyf2x7k16CltlKda2ujrKTxAWYE" width=115><br><sub>Ronnyely Reis</sub>](https://www.linkedin.com/in/ronnyely-reis-09b7a123a/) |  [<img src="https://media-exp1.licdn.com/dms/image/D4D35AQGhTK6rGj7rtw/profile-framedphoto-shrink_200_200/0/1637762092754?e=1662084000&v=beta&t=HPxx-u7y56-yWwJajGeOUFqCs5n3gofJkhjkLn1Txoo" width=115><br><sub>Lucas Frota Braga</sub>](https://www.linkedin.com/in/lucas-frota-braga-4225a4191/) | [<img src="https://media-exp1.licdn.com/dms/image/C4E03AQFQ1y1fHDihGg/profile-displayphoto-shrink_200_200/0/1595372949600?e=1666828800&v=beta&t=-DviXHafAq1go-uwGCnUHLHZrgOPBbyKaOBqj1NN104" width=115><br><sub>Mara Mônica S.</sub>](https://www.linkedin.com/in/maramonicasilva/)| <img scr="https://www.cvasolutions.com/wp-content/uploads/2017/03/sem-avatar.jpg" width=115><br><sub> Daniel Cabral</sub>| 
+| [<img src="https://avatars.githubusercontent.com/u/90623907?v=4" width=115><br><sub>Ingryd Cordeiro Duarte</sub>](https://github.com/ingrydf12) |  [<img src="https://media.licdn.com/dms/image/C4D03AQF7WkG4f62eOw/profile-displayphoto-shrink_800_800/0/1652477347885?e=1721865600&v=beta&t=rm_XWqIgm39nhLuf5mlArAsub-k4yPCfj7i7fdzJfB8" width=115><br><sub>Ronnyely Reis</sub>](https://www.linkedin.com/in/ronnyely-reis-09b7a123a/) |  [<img src="https://media.licdn.com/dms/image/D4D03AQF-ojKXaNHViQ/profile-displayphoto-shrink_800_800/0/1681046428002?e=1721865600&v=beta&t=Nd6R2eRW_unF168xQ8DcyOZeTMWOtPozRA9_DAgIXuk" width=115><br><sub>Lucas Frota Braga</sub>](https://www.linkedin.com/in/lucas-frota-braga-4225a4191/) | [<img src="https://media.licdn.com/dms/image/D4D03AQHQ-FyI48sx8w/profile-displayphoto-shrink_800_800/0/1712705232039?e=1721865600&v=beta&t=ViGlzfHvnPIEZNqLcO_nb9_E-Azx99SpZbtp8f6nmgw" width=115><br><sub>Mara Mônica S.</sub>](https://www.linkedin.com/in/maramonicasilva/)| <img scr="https://www.cvasolutions.com/wp-content/uploads/2017/03/sem-avatar.jpg" width=115><br><sub> Daniel Cabral</sub>| 
 | :---: | :---: | :---: |  :---: |  :---: | 
